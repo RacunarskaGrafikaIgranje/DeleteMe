@@ -1,2 +1,8 @@
 # DeleteMe
-delete me please
+
+# some minor changes
+
+How to use:
+- play with me
+- finish playing
+- delete me
